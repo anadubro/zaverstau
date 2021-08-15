@@ -21,3 +21,21 @@
 
 
     
+.contacts-work {
+    position: absolute;
+    background-color: #fff;
+    margin: 52px 0 0 222px;
+    padding: 40px 117px 0 35px;
+    height: 520px;
+}
+
+.contacts {
+    padding-top: 14px;
+}
+
+.info-contact img{
+    width: 100%;
+}
+.page-footer {
+    background-color: #AE7C78;
+}
